@@ -36,9 +36,9 @@
             color: black;
         }
         .contact-form {
-            padding: 20px;
+            padding: 30px;
             max-width: 600px;
-            margin: 20px auto;
+            margin: 50px auto;
             background-color: #f9f9f9;
             border: 1px solid #ddd;
             border-radius: 8px;
@@ -49,10 +49,10 @@
         }
         .contact-form input, .contact-form textarea {
             width: 100%;
-            padding: 10px;
+            padding: 5px;
             margin-bottom: 15px;
             border: 1px solid #ccc;
-            border-radius: 4px;
+            border-radius: 3px;
         }
         .contact-form input[type="submit"] {
             background-color: #F4D03F; /* amarillo */
@@ -79,11 +79,9 @@
     </header>
 
     <nav>
-        <a href="#">Inicio</a>
-        <a href="#">Catálogo</a>
-        <a href="#">Ofertas</a>
-        <a href="#">Recetas Saludables</a>
-        <a href="contacto.html">Contacto</a> <!-- Enlace a la página de contacto -->
+        <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/imagen.html">Inicio</a>
+       
+        
     </nav>
 
     <div class="contact-form">
@@ -108,3 +106,4 @@
 
 </body>
 </html>
+
