@@ -79,7 +79,7 @@
     </header>
 
     <nav>
-        <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/imagen.html">Inicio</a>
+        <a href="https://marcusfilidor.github.io/fruteria/">Inicio</a>
        
         
     </nav>
